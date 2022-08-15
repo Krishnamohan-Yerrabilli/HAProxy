@@ -14,4 +14,4 @@ if __name__ == '__main__':
 	app.run(port=sys.argv[1])
 	
 #Run the server in command line as follows:-
-#python app.py 3000
+#python app.py port_number(your choice)
